@@ -1,14 +1,15 @@
-CGI::Wiki::Plugin::GeoCache 0.1
+CGI::Wiki::Plugin::GeoCache
 by Earle Martin <mailto:EMARTIN@cpan.org>
 
 How to install this module:
 
-1) tar -xvzf CGI-Wiki-Plugin-GeoCache-0.01.tar.gz
+1) tar -xvzf CGI-Wiki-Plugin-GeoCache-0.11.tar.gz
 
-2) cd CGI-Wiki-Plugin-GeoCache-0.1
+2) cd CGI-Wiki-Plugin-GeoCache-0.11
 
 3) perl Makefile.PL
-if you're installing the file to a local library, add the following to the
+
+if you're installing the file to a local library, append the following to the
 previous line:
 PREFIX=/path/to/your/lib LIB=/path/to/your/lib
 

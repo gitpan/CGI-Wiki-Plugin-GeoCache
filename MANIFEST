@@ -1,12 +1,6 @@
+Changes
 MANIFEST
 Makefile.PL
 README
 lib/CGI/Wiki/Plugin/GeoCache.pm
-t/00_setup.t
-t/01_add_test_data.t
 t/geocache.t
-t/sii-db-file-test.db/index_0.db
-t/sii-db-file-test.db/index_1.db
-t/sii-db-file-test.db/index_2.db
-t/sii-db-file-test.db/index_3.db
-t/sqlite-test.db
