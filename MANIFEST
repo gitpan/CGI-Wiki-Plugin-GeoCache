@@ -4,3 +4,4 @@ Makefile.PL
 README
 lib/CGI/Wiki/Plugin/GeoCache.pm
 t/geocache.t
+META.yml                                 Module meta-data (added by MakeMaker)

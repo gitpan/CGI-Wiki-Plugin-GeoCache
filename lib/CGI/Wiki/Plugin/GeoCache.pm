@@ -3,7 +3,7 @@ package CGI::Wiki::Plugin::GeoCache;
 use strict;
 use Carp qw(croak);
 use vars qw( $VERSION );
-$VERSION = '0.11';
+$VERSION = '0.2';
 
 sub new {
 	my $class = shift;
@@ -33,7 +33,12 @@ sub make_link {
 
 =head1 NAME
 
-CGI::Wiki::Plugin::GeoCache
+CGI::Wiki::Plugin::GeoCache - deprecated, upgrade to OpenGuides 0.42+ instead
+
+=head1 DEPRECATION NOTICE
+
+This module is obsolete as of OpenGuides 0.42. Please upgrade your OpenGuides 
+installation if you haven't already.
 
 =head1 DESCRIPTION
 
@@ -81,7 +86,7 @@ Earle Martin (EMARTIN@cpan.org).
 
 =head1 COPYRIGHT
 
-Copyright (C) 2003 Earle Martin.  All Rights Reserved.
+Copyright (C) 2003-4 Earle Martin.
 
 This module is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.

@@ -1,3 +1,6 @@
+0.2     2004-10-12
+        Deprecated in favour of OpenGuides 0.42+.
+
 0.11	2003-04-26
 	Removed some junk from the installation tarball that really
 	shouldn't have been there in the first place.
